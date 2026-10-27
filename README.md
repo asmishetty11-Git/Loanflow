@@ -10,7 +10,7 @@ A responsive web application that simulates digital loan management.
 - Admin analytics
 
 ## Technologies
-React, TypeScript, and Vite
+React, JavaScript, and css3
 
 ## Author
 Asmi Shetty
