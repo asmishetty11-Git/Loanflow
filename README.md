@@ -10,7 +10,8 @@ A responsive web application that simulates digital loan management.
 - Admin analytics
 
 ## Technologies
-React, JavaScript, and css3
+HTML5, CSS3,JavaScript (ES6+)
+React.js ,React Router DOM , Recharts
 
 ## Author
 Asmi Shetty
